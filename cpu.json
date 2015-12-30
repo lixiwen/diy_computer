@@ -1,0 +1,536 @@
+[
+  {
+    "baseParam" : {
+      "CPU主频" : {
+        "1" : "2.7GHz",
+        "2" : 495,
+        "3" : 29,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "CPU系列" : {
+        "1" : "赛扬",
+        "2" : 492,
+        "3" : 5103,
+        "6" : 45,
+        "7" : 1
+      },
+      "包装形式" : {
+        "1" : "盒装",
+        "3" : 13685,
+        "7" : 1
+      },
+      "适用类型" : {
+        "1" : "台式机",
+        "2" : 2539,
+        "3" : 3015,
+        "5" : 1,
+        "6" : 70,
+        "7" : 1
+      }
+    },
+    "highPrice" : "244.00",
+    "level" : "30",
+    "lowPrice" : "229.00",
+    "manuId" : "125",
+    "name" : "Intel 赛扬 G1820（盒）",
+    "picSrc" : "http://2a.zol-img.com.cn/product_small/4_60x45/658/cepckwqJ0Hl0g.jpg",
+    "price" : "230",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 230,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "369818",
+    "proUrl" : "http://detail.zol.com.cn/cpu/index369818.shtml",
+    "shorName" : "Intel 赛扬 G1820（盒）"
+  },
+  {
+    "baseParam" : {
+      "CPU主频" : {
+        "1" : "2.8GHz",
+        "2" : 495,
+        "3" : 29,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "CPU系列" : {
+        "1" : "赛扬双核",
+        "2" : 492,
+        "3" : 5103,
+        "6" : 45,
+        "7" : 1
+      },
+      "包装形式" : {
+        "1" : "散装",
+        "3" : 13685,
+        "7" : 1
+      },
+      "适用类型" : {
+        "1" : "台式机",
+        "2" : 2539,
+        "3" : 3015,
+        "5" : 1,
+        "6" : 70,
+        "7" : 1
+      }
+    },
+    "highPrice" : "285.00",
+    "level" : "30",
+    "lowPrice" : "250.00",
+    "manuId" : "125",
+    "name" : "Intel 赛扬 G1840",
+    "picSrc" : "http://2e.zol-img.com.cn/product_small/4_60x45/896/cehZfn8ALA4E.jpg",
+    "price" : "259",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 259,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "386847",
+    "proUrl" : "http://detail.zol.com.cn/cpu/index386847.shtml",
+    "shorName" : "Intel 赛扬 G1840"
+  },
+  {
+    "baseParam" : {
+      "CPU主频" : {
+        "1" : "3.4GHz",
+        "2" : 495,
+        "3" : 29,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "CPU系列" : {
+        "1" : "APU A4",
+        "2" : 492,
+        "3" : 5103,
+        "6" : 45,
+        "7" : 1
+      },
+      "包装形式" : {
+        "1" : "盒装",
+        "3" : 13685,
+        "7" : 1
+      },
+      "适用类型" : {
+        "1" : "台式机",
+        "2" : 2539,
+        "3" : 3015,
+        "5" : 1,
+        "6" : 70,
+        "7" : 1
+      }
+    },
+    "highPrice" : "224.00",
+    "level" : "30",
+    "lowPrice" : "134.00",
+    "manuId" : "55",
+    "name" : "AMD A4-5300（盒）",
+    "picSrc" : "http://i4.prosmall.fd.zol-img.com.cn/t_s80x60/g4/M03/09/06/Cg-4WlC0tOqISrdRAAAasVBIt5sAAClWAP04w4AABrJ594.jpg",
+    "price" : "135",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 135,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "334156",
+    "proUrl" : "http://detail.zol.com.cn/cpu/index334156.shtml",
+    "shorName" : "AMD A4-5300（盒）"
+  },
+  {
+    "baseParam" : {
+      "CPU主频" : {
+        "1" : "2.7GHz",
+        "2" : 495,
+        "3" : 29,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "CPU系列" : {
+        "1" : "赛扬",
+        "2" : 492,
+        "3" : 5103,
+        "6" : 45,
+        "7" : 1
+      },
+      "包装形式" : {
+        "1" : "盒装",
+        "3" : 13685,
+        "7" : 1
+      },
+      "适用类型" : {
+        "1" : "台式机",
+        "2" : 2539,
+        "3" : 3015,
+        "5" : 1,
+        "6" : 70,
+        "7" : 1
+      }
+    },
+    "highPrice" : "209.00",
+    "level" : "20",
+    "lowPrice" : "209.00",
+    "manuId" : "125",
+    "name" : "Intel 赛扬 G1620",
+    "picSrc" : "http://2e.zol-img.com.cn/product_small/4_60x45/446/ceqjo3Wm3CCw.jpg",
+    "price" : "210",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 210,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "338269",
+    "proUrl" : "http://detail.zol.com.cn/cpu/index338269.shtml",
+    "shorName" : "Intel 赛扬 G1620"
+  },
+  {
+    "baseParam" : {
+      "CPU主频" : {
+        "1" : "2.6GHz",
+        "2" : 495,
+        "3" : 29,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "包装形式" : {
+        "1" : "盒装",
+        "3" : 13685,
+        "7" : 1
+      },
+      "插槽类型" : {
+        "1" : "LGA 1155",
+        "10" : {
+          "BGA 1283" : "\t"
+        },
+        "2" : 493,
+        "3" : 28,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "适用类型" : {
+        "1" : "台式机",
+        "2" : 2539,
+        "3" : 3015,
+        "5" : 1,
+        "6" : 70,
+        "7" : 1
+      }
+    },
+    "highPrice" : "239.00",
+    "level" : "30",
+    "lowPrice" : "239.00",
+    "manuId" : "125",
+    "name" : "Intel 赛扬 G1610（盒）",
+    "picSrc" : "http://2e.zol-img.com.cn/product_small/4_60x45/222/ceXFw9Av194aA.jpg",
+    "price" : "240",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 240,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "338272",
+    "proUrl" : "http://detail.zol.com.cn/cpu/index338272.shtml",
+    "shorName" : "Intel 赛扬 G1610（盒）"
+  },
+  {
+    "baseParam" : {
+      "CPU主频" : {
+        "1" : "3.8GHz",
+        "2" : 495,
+        "3" : 29,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "CPU系列" : {
+        "1" : "APU A4",
+        "2" : 492,
+        "3" : 5103,
+        "6" : 45,
+        "7" : 1
+      },
+      "包装形式" : {
+        "1" : "盒装",
+        "3" : 13685,
+        "7" : 1
+      },
+      "适用类型" : {
+        "1" : "台式机",
+        "2" : 2539,
+        "3" : 3015,
+        "5" : 1,
+        "6" : 70,
+        "7" : 1
+      }
+    },
+    "highPrice" : "298.00",
+    "level" : "30",
+    "lowPrice" : "283.00",
+    "manuId" : "55",
+    "name" : "AMD A4-7300（盒）",
+    "picSrc" : "http://2a.zol-img.com.cn/product_small/4_60x45/246/celwFauCyMAa2.jpg",
+    "price" : "299",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 299,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "391195",
+    "proUrl" : "http://detail.zol.com.cn/cpu/index391195.shtml",
+    "shorName" : "AMD A4-7300（盒）"
+  },
+  {
+    "baseParam" : {
+      "CPU主频" : {
+        "1" : "2.8GHz",
+        "2" : 495,
+        "3" : 29,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "CPU系列" : {
+        "1" : "赛扬",
+        "2" : 492,
+        "3" : 5103,
+        "6" : 45,
+        "7" : 1
+      },
+      "包装形式" : {
+        "1" : "散装",
+        "3" : 13685,
+        "7" : 1
+      },
+      "适用类型" : {
+        "1" : "台式机",
+        "2" : 2539,
+        "3" : 3015,
+        "5" : 1,
+        "6" : 70,
+        "7" : 1
+      }
+    },
+    "highPrice" : "221.00",
+    "level" : "30",
+    "lowPrice" : "221.00",
+    "manuId" : "125",
+    "name" : "Intel 赛扬 G1630",
+    "picSrc" : "http://2e.zol-img.com.cn/product_small/4_60x45/168/cevtDfcLD6DIo.jpg",
+    "price" : "222",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 222,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "380235",
+    "proUrl" : "http://detail.zol.com.cn/cpu/index380235.shtml",
+    "shorName" : "Intel 赛扬 G1630"
+  },
+  {
+    "baseParam" : {
+      "CPU主频" : {
+        "1" : "3GHz",
+        "2" : 495,
+        "3" : 29,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "CPU系列" : {
+        "1" : "速龙II X2",
+        "2" : 492,
+        "3" : 5103,
+        "6" : 45,
+        "7" : 1
+      },
+      "包装形式" : {
+        "1" : "散装",
+        "3" : 13685,
+        "7" : 1
+      },
+      "适用类型" : {
+        "1" : "台式机",
+        "2" : 2539,
+        "3" : 3015,
+        "5" : 1,
+        "6" : 70,
+        "7" : 1
+      }
+    },
+    "highPrice" : "200.00",
+    "level" : "30",
+    "lowPrice" : "200.00",
+    "manuId" : "55",
+    "name" : "AMD 速龙II X2 250（散）",
+    "picSrc" : "http://i0.prosmall.fd.zol-img.com.cn/t_s80x60/g4/M0B/09/08/Cg-4WVC01uCIKbwGAAAkoE9vaLgAACltAC74AUAACS4720.jpg",
+    "price" : "200",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 200,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "283204",
+    "proUrl" : "http://detail.zol.com.cn/cpu/index283204.shtml",
+    "shorName" : "AMD 速龙II X2 250（散"
+  },
+  {
+    "baseParam" : {
+      "CPU主频" : {
+        "1" : "2.7GHz",
+        "2" : 495,
+        "3" : 29,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "CPU系列" : {
+        "1" : "赛扬",
+        "2" : 492,
+        "3" : 5103,
+        "6" : 45,
+        "7" : 1
+      },
+      "包装形式" : {
+        "1" : "散装",
+        "3" : 13685,
+        "7" : 1
+      },
+      "适用类型" : {
+        "1" : "台式机",
+        "2" : 2539,
+        "3" : 3015,
+        "5" : 1,
+        "6" : 70,
+        "7" : 1
+      }
+    },
+    "highPrice" : "285.00",
+    "level" : "30",
+    "lowPrice" : "259.00",
+    "manuId" : "125",
+    "name" : "Intel 赛扬 E3500（散）",
+    "picSrc" : "http://i0.prosmall.fd.zol-img.com.cn/t_s80x60/g4/M03/09/08/Cg-4WlC01CiIA9blAACV9B7ZuO4AAClrAMXkW0AAJYM776.jpg",
+    "price" : "260",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 260,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "288235",
+    "proUrl" : "http://detail.zol.com.cn/cpu/index288235.shtml",
+    "shorName" : "Intel 赛扬 E3500（散）"
+  },
+  {
+    "baseParam" : {
+      "CPU主频" : {
+        "1" : "2.5GHz",
+        "2" : 495,
+        "3" : 29,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "CPU系列" : {
+        "1" : "APU A4",
+        "2" : 492,
+        "3" : 5103,
+        "6" : 45,
+        "7" : 1
+      },
+      "包装形式" : {
+        "1" : "盒装",
+        "3" : 13685,
+        "7" : 1
+      },
+      "适用类型" : {
+        "1" : "台式机",
+        "2" : 2539,
+        "3" : 3015,
+        "5" : 1,
+        "6" : 70,
+        "7" : 1
+      }
+    },
+    "highPrice" : "289.00",
+    "level" : "30",
+    "lowPrice" : "289.00",
+    "manuId" : "55",
+    "name" : "AMD A4-3300（盒）",
+    "picSrc" : "http://i0.prosmall.fd.zol-img.com.cn/t_s80x60/g4/M09/09/07/Cg-4WlC0zJKIG0-0AABPXjZRqRkAAClmgL2WHUAAE92710.jpg",
+    "price" : "290",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 290,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "292097",
+    "proUrl" : "http://detail.zol.com.cn/cpu/index292097.shtml",
+    "shorName" : "AMD A4-3300（盒）"
+  }
+]
