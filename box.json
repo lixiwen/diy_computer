@@ -1,0 +1,714 @@
+[
+  {
+    "baseParam" : {
+      "机箱样式" : {
+        "1" : "立式",
+        "11" : {
+          "卧式" : "1",
+          "立式" : "1"
+        },
+        "2" : 638,
+        "3" : 344,
+        "5" : 1,
+        "6" : 75,
+        "7" : 1
+      },
+      "机箱类型" : {
+        "1" : "游戏机箱",
+        "2" : 637,
+        "3" : 83,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "电源设计" : {
+        "1" : "下置电源",
+        "11" : {
+          "上置电源" : "1"
+        },
+        "3" : 15372,
+        "7" : 1
+      },
+      "适用主板" : {  
+        "1" : "MATX板型，ATX板型，mini ITX板型",
+        "11" : {
+          "ATX板型" : "1",
+          "DTX板型" : "1",
+          "EATX板型" : "1",
+          "EATX板型，ATX板型，MATX板型，DTX板型，ITX板型" : "1",
+          "ITX板型" : "1",
+          "MATX板型" : "1"
+        },
+        "2" : 2668,
+        "3" : 84,
+        "6" : 115,
+        "7" : 1
+      }
+    },
+    "highPrice" : "224.00",
+    "level" : "30",
+    "lowPrice" : "224.00",
+    "manuId" : "239",
+    "name" : "金河田 超越beyond",
+    "picSrc" : "http://2e.zol-img.com.cn/product_small/4_60x45/692/cevxjdiqNtStQ.jpg",
+    "price" : "239",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 239,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "394589",
+    "proUrl" : "http://detail.zol.com.cn/case/index394589.shtml",
+    "shorName" : "金河田超越beyond"
+  },
+  {
+    "baseParam" : {
+      "机箱样式" : {
+        "1" : "立式",
+        "11" : {
+          "卧式" : "1",
+          "立式" : "1"
+        },
+        "2" : 638,
+        "3" : 344,
+        "5" : 1,
+        "6" : 75,
+        "7" : 1
+      },
+      "机箱类型" : {
+        "1" : "台式机箱（中塔）",
+        "2" : 637,
+        "3" : 83,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "机箱结构" : {
+        "1" : "ATX",
+        "11" : {
+          "ATX" : "1",
+          "ITX" : "1",
+          "MATX" : "1",
+          "RTX" : "1"
+        },
+        "2" : 639,
+        "3" : 1366,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "适用主板" : {
+        "1" : "ATX版型，MATX版型，UATX/mini-ITX版型",
+        "11" : {
+          "ATX板型" : "1",
+          "DTX板型" : "1",
+          "EATX板型" : "1",
+          "EATX板型，ATX板型，MATX板型，DTX板型，ITX板型" : "1",
+          "ITX板型" : "1",
+          "MATX板型" : "1"
+        },
+        "2" : 2668,
+        "3" : 84,
+        "6" : 115,
+        "7" : 1
+      }
+    },
+    "highPrice" : "373.00",
+    "level" : "30",
+    "lowPrice" : "273.00",
+    "manuId" : "34279",
+    "name" : "游戏悍将 刀锋-变形金刚3至尊版",
+    "picSrc" : "http://2a.zol-img.com.cn/product_small/4_60x45/498/ceeE3erLovZt2.jpg",
+    "price" : "199",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 199,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "391390",
+    "proUrl" : "http://detail.zol.com.cn/case/index391390.shtml",
+    "shorName" : "游戏悍将刀锋-变形金刚3"
+  },
+  {
+    "baseParam" : {
+      "机箱样式" : {
+        "1" : "卧式",
+        "11" : {
+          "卧式" : "1",
+          "立式" : "1"
+        },
+        "2" : 638,
+        "3" : 344,
+        "5" : 1,
+        "6" : 75,
+        "7" : 1
+      },
+      "机箱类型" : {
+        "1" : "游戏机箱",
+        "2" : 637,
+        "3" : 83,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "机箱结构" : {
+        "1" : "MATX",
+        "11" : {
+          "ATX" : "1",
+          "ITX" : "1",
+          "MATX" : "1",
+          "RTX" : "1"
+        },
+        "2" : 639,
+        "3" : 1366,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "适用主板" : {
+        "1" : "MATX板型",
+        "11" : {
+          "ATX板型" : "1",
+          "DTX板型" : "1",
+          "EATX板型" : "1",
+          "EATX板型，ATX板型，MATX板型，DTX板型，ITX板型" : "1",
+          "ITX板型" : "1",
+          "MATX板型" : "1"
+        },
+        "2" : 2668,
+        "3" : 84,
+        "6" : 115,
+        "7" : 1
+      }
+    },
+    "highPrice" : "234.00",
+    "level" : "30",
+    "lowPrice" : "234.00",
+    "manuId" : "3829",
+    "name" : "先马 碳立方",
+    "picSrc" : "http://2b.zol-img.com.cn/product_small/4_60x45/943/cexyh15SNzO9s.jpg",
+    "price" : "299",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 299,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "391080",
+    "proUrl" : "http://detail.zol.com.cn/case/index391080.shtml",
+    "shorName" : "先马碳立方"
+  },
+  {
+    "baseParam" : {
+      "机箱样式" : {
+        "1" : "立式",
+        "11" : {
+          "卧式" : "1",
+          "立式" : "1"
+        },
+        "2" : 638,
+        "3" : 344,
+        "5" : 1,
+        "6" : 75,
+        "7" : 1
+      },
+      "机箱类型" : {
+        "1" : "台式机箱",
+        "2" : 637,
+        "3" : 83,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "机箱结构" : {
+        "1" : "ATX，M-ATX，mini-ITX",
+        "11" : {
+          "ATX" : "1",
+          "ITX" : "1",
+          "MATX" : "1",
+          "RTX" : "1"
+        },
+        "2" : 639,
+        "3" : 1366,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "适用主板" : {
+        "1" : "ATX板型，MATX板型，ITX板型",
+        "11" : {
+          "ATX板型" : "1",
+          "DTX板型" : "1",
+          "EATX板型" : "1",
+          "EATX板型，ATX板型，MATX板型，DTX板型，ITX板型" : "1",
+          "ITX板型" : "1",
+          "MATX板型" : "1"
+        },
+        "2" : 2668,
+        "3" : 84,
+        "6" : 115,
+        "7" : 1
+      }
+    },
+    "highPrice" : "245.00",
+    "level" : "30",
+    "lowPrice" : "205.00",
+    "manuId" : "3829",
+    "name" : "先马 坦克（透彻标准版）",
+    "picSrc" : "http://2a.zol-img.com.cn/product_small/4_60x45/580/ceYhNbd0ALUcA.jpg",
+    "price" : "219",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 219,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "400499",
+    "proUrl" : "http://detail.zol.com.cn/case/index400499.shtml",
+    "shorName" : "先马坦克（透彻标准版）"
+  },
+  {
+    "baseParam" : {
+      "机箱样式" : {
+        "1" : "立式",
+        "11" : {
+          "卧式" : "1",
+          "立式" : "1"
+        },
+        "2" : 638,
+        "3" : 344,
+        "5" : 1,
+        "6" : 75,
+        "7" : 1
+      },
+      "机箱类型" : {
+        "1" : "游戏机箱",
+        "2" : 637,
+        "3" : 83,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "机箱结构" : {
+        "1" : "RTX",
+        "11" : {
+          "ATX" : "1",
+          "ITX" : "1",
+          "MATX" : "1",
+          "RTX" : "1"
+        },
+        "2" : 639,
+        "3" : 1366,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "适用主板" : {
+        "1" : "ATX板型，MATX板型",
+        "11" : {
+          "ATX板型" : "1",
+          "DTX板型" : "1",
+          "EATX板型" : "1",
+          "EATX板型，ATX板型，MATX板型，DTX板型，ITX板型" : "1",
+          "ITX板型" : "1",
+          "MATX板型" : "1"
+        },
+        "2" : 2668,
+        "3" : 84,
+        "6" : 115,
+        "7" : 1
+      }
+    },
+    "highPrice" : "166.00",
+    "level" : "30",
+    "lowPrice" : "166.00",
+    "manuId" : "33389",
+    "name" : "至睿 蜂巢GX10",
+    "picSrc" : "http://2d.zol-img.com.cn/product_small/4_60x45/623/ce8MfTUFIB9LE.jpg",
+    "price" : "219",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 219,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "395790",
+    "proUrl" : "http://detail.zol.com.cn/case/index395790.shtml",
+    "shorName" : "至睿蜂巢GX10"
+  },
+  {
+    "baseParam" : {
+      "机箱样式" : {
+        "1" : "立式",
+        "11" : {
+          "卧式" : "1",
+          "立式" : "1"
+        },
+        "2" : 638,
+        "3" : 344,
+        "5" : 1,
+        "6" : 75,
+        "7" : 1
+      },
+      "机箱类型" : {
+        "1" : "游戏机箱",
+        "2" : 637,
+        "3" : 83,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "机箱结构" : {
+        "1" : "ATX",
+        "11" : {
+          "ATX" : "1",
+          "ITX" : "1",
+          "MATX" : "1",
+          "RTX" : "1"
+        },
+        "2" : 639,
+        "3" : 1366,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "适用主板" : {
+        "1" : "ATX板型，MATX板型",
+        "11" : {
+          "ATX板型" : "1",
+          "DTX板型" : "1",
+          "EATX板型" : "1",
+          "EATX板型，ATX板型，MATX板型，DTX板型，ITX板型" : "1",
+          "ITX板型" : "1",
+          "MATX板型" : "1"
+        },
+        "2" : 2668,
+        "3" : 84,
+        "6" : 115,
+        "7" : 1
+      }
+    },
+    "highPrice" : "205.00",
+    "level" : "30",
+    "lowPrice" : "205.00",
+    "manuId" : "3829",
+    "name" : "先马 影子战士",
+    "picSrc" : "http://2b.zol-img.com.cn/product_small/4_60x45/531/ceNbr822dPoY.jpg",
+    "price" : "239",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 239,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "372716",
+    "proUrl" : "http://detail.zol.com.cn/case/index372716.shtml",
+    "shorName" : "先马影子战士"
+  },
+  {
+    "baseParam" : {
+      "机箱样式" : {
+        "1" : "立式",
+        "11" : {
+          "卧式" : "1",
+          "立式" : "1"
+        },
+        "2" : 638,
+        "3" : 344,
+        "5" : 1,
+        "6" : 75,
+        "7" : 1
+      },
+      "机箱类型" : {
+        "1" : "游戏机箱",
+        "2" : 637,
+        "3" : 83,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "机箱结构" : {
+        "1" : "ATX",
+        "11" : {
+          "ATX" : "1",
+          "ITX" : "1",
+          "MATX" : "1",
+          "RTX" : "1"
+        },
+        "2" : 639,
+        "3" : 1366,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      },
+      "适用主板" : {
+        "1" : "ATX板型，MATX板型",
+        "11" : {
+          "ATX板型" : "1",
+          "DTX板型" : "1",
+          "EATX板型" : "1",
+          "EATX板型，ATX板型，MATX板型，DTX板型，ITX板型" : "1",
+          "ITX板型" : "1",
+          "MATX板型" : "1"
+        },
+        "2" : 2668,
+        "3" : 84,
+        "6" : 115,
+        "7" : 1
+      }
+    },
+    "highPrice" : "195.00",
+    "level" : "30",
+    "lowPrice" : "185.00",
+    "manuId" : "34279",
+    "name" : "游戏悍将 刀锋3标准黑装",
+    "picSrc" : "http://2c.zol-img.com.cn/product_small/4_60x45/256/ceiIWVWnimh6.jpg",
+    "price" : "199",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 199,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "354816",
+    "proUrl" : "http://detail.zol.com.cn/case/index354816.shtml",
+    "shorName" : "游戏悍将刀锋3标准黑装"
+  },
+  {
+    "baseParam" : {
+      "机箱样式" : {
+        "1" : "立式",
+        "11" : {
+          "卧式" : "1",
+          "立式" : "1"
+        },
+        "2" : 638,
+        "3" : 344,
+        "5" : 1,
+        "6" : 75,
+        "7" : 1
+      },
+      "机箱类型" : {
+        "1" : "台式机箱（中塔）",
+        "2" : 637,
+        "3" : 83,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "电源设计" : {
+        "1" : "下置电源",
+        "11" : {
+          "上置电源" : "1"
+        },
+        "3" : 15372,
+        "7" : 1
+      },
+      "适用主板" : {
+        "1" : "ATX板型，MATX板型",
+        "11" : {
+          "ATX板型" : "1",
+          "DTX板型" : "1",
+          "EATX板型" : "1",
+          "EATX板型，ATX板型，MATX板型，DTX板型，ITX板型" : "1",
+          "ITX板型" : "1",
+          "MATX板型" : "1"
+        },
+        "2" : 2668,
+        "3" : 84,
+        "6" : 115,
+        "7" : 1
+      }
+    },
+    "highPrice" : "",
+    "level" : "30",
+    "lowPrice" : "",
+    "manuId" : "1000",
+    "name" : "航嘉 MVP Pro",
+    "picSrc" : "http://2e.zol-img.com.cn/product_small/4_60x45/28/ceOX2ZQB23k9I.jpg",
+    "price" : "299",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 299,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "397493",
+    "proUrl" : "http://detail.zol.com.cn/case/index397493.shtml",
+    "shorName" : "航嘉MVP Pro"
+  },
+  {
+    "baseParam" : {
+      "显卡限长" : {
+        "1" : "380mm",
+        "3" : 15373,
+        "7" : 1
+      },
+      "机箱样式" : {
+        "1" : "立式",
+        "11" : {
+          "卧式" : "1",
+          "立式" : "1"
+        },
+        "2" : 638,
+        "3" : 344,
+        "5" : 1,
+        "6" : 75,
+        "7" : 1
+      },
+      "机箱类型" : {
+        "1" : "游戏机箱",
+        "2" : 637,
+        "3" : 83,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "机箱结构" : {
+        "1" : "MATX，ATX",
+        "11" : {
+          "ATX" : "1",
+          "ITX" : "1",
+          "MATX" : "1",
+          "RTX" : "1"
+        },
+        "2" : 639,
+        "3" : 1366,
+        "5" : 1,
+        "6" : 120,
+        "7" : 1
+      }
+    },
+    "highPrice" : "",
+    "level" : "30",
+    "lowPrice" : "",
+    "manuId" : "34837",
+    "name" : "GAMEMAX 碳60",
+    "picSrc" : "http://2f.zol-img.com.cn/product_small/4_60x45/971/ceh6p8IfPbOE.jpg",
+    "price" : "239",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 239,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "397337",
+    "proUrl" : "http://detail.zol.com.cn/case/index397337.shtml",
+    "shorName" : "GAMEMAX 碳60"
+  },
+  {
+    "baseParam" : {
+      "机箱样式" : {
+        "1" : "立式",
+        "11" : {
+          "卧式" : "1",
+          "立式" : "1"
+        },
+        "2" : 638,
+        "3" : 344,
+        "5" : 1,
+        "6" : 75,
+        "7" : 1
+      },
+      "机箱类型" : {
+        "1" : "游戏机箱",
+        "2" : 637,
+        "3" : 83,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "电源设计" : {
+        "1" : "下置电源",
+        "11" : {
+          "上置电源" : "1"
+        },
+        "3" : 15372,
+        "7" : 1
+      },
+      "适用主板" : {
+        "1" : "ATX板型，MATX板型，ITX板型",
+        "11" : {
+          "ATX板型" : "1",
+          "DTX板型" : "1",
+          "EATX板型" : "1",
+          "EATX板型，ATX板型，MATX板型，DTX板型，ITX板型" : "1",
+          "ITX板型" : "1",
+          "MATX板型" : "1"
+        },
+        "2" : 2668,
+        "3" : 84,
+        "6" : 115,
+        "7" : 1
+      }
+    },
+    "highPrice" : "293.00",
+    "level" : "30",
+    "lowPrice" : "293.00",
+    "manuId" : "1858",
+    "name" : "鑫谷 战舰EVO豪华版",
+    "picSrc" : "http://2f.zol-img.com.cn/product_small/4_60x45/13/cegeoNVMiuQrU.jpg",
+    "price" : "299",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 299,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "391613",
+    "proUrl" : "http://detail.zol.com.cn/case/index391613.shtml",
+    "shorName" : "鑫谷战舰EVO豪华版"
+  }
+]
