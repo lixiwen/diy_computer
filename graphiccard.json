@@ -1,0 +1,532 @@
+[
+  {
+    "baseParam" : {
+      "制作工艺" : {
+        "1" : "28纳米",
+        "2" : 539,
+        "3" : 1082,
+        "5" : 1,
+        "6" : 60,
+        "7" : 1
+      },
+      "显卡芯片" : {
+        "1" : "GeForce GTX 750",
+        "2" : 538,
+        "3" : 106,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "显示芯片系列" : {
+        "1" : "NVIDIA GTX 700系列",
+        "3" : 12912,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "NVIDIA",
+        "3" : 1081,
+        "5" : 1,
+        "6" : 127,
+        "7" : 1
+      }
+    },
+    "highPrice" : "795.00",
+    "level" : "30",
+    "lowPrice" : "744.00",
+    "manuId" : "413",
+    "name" : "七彩虹 iGame 750 烈焰战神U-Twin-1GD5",
+    "picSrc" : "http://2e.zol-img.com.cn/product_small/4_60x45/4/ce8P8SZgoa7bo.jpg",
+    "price" : "799",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 799,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "370959",
+    "proUrl" : "http://detail.zol.com.cn/vga/index370959.shtml",
+    "shorName" : "七彩虹iGame 750 烈焰战"
+  },
+  {
+    "baseParam" : {
+      "制作工艺" : {
+        "1" : "28纳米",
+        "2" : 539,
+        "3" : 1082,
+        "5" : 1,
+        "6" : 60,
+        "7" : 1
+      },
+      "显卡芯片" : {
+        "1" : "GeForce GTX 970",
+        "2" : 538,
+        "3" : 106,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "显示芯片系列" : {
+        "1" : "NVIDIA GTX 900系列",
+        "3" : 12912,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "NVIDIA",
+        "3" : 1081,
+        "5" : 1,
+        "6" : 127,
+        "7" : 1
+      }
+    },
+    "highPrice" : "2785.00",
+    "level" : "30",
+    "lowPrice" : "2518.00",
+    "manuId" : "227",
+    "name" : "华硕 STRIX GTX 970 DC2OC 4GD5",
+    "picSrc" : "http://2d.zol-img.com.cn/product_small/4_60x45/25/ceyUedIXqoD32.jpg",
+    "price" : "2799",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 2799,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "389428",
+    "proUrl" : "http://detail.zol.com.cn/vga/index389428.shtml",
+    "shorName" : "华硕STRIX GTX 970 DC2O"
+  },
+  {
+    "baseParam" : {
+      "制作工艺" : {
+        "1" : "28纳米",
+        "2" : 539,
+        "3" : 1082,
+        "5" : 1,
+        "6" : 60,
+        "7" : 1
+      },
+      "显卡芯片" : {
+        "1" : "GeForce GTX 750Ti",
+        "2" : 538,
+        "3" : 106,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "显示芯片系列" : {
+        "1" : "NVIDIA GTX 700系列",
+        "3" : 12912,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "NVIDIA",
+        "3" : 1081,
+        "5" : 1,
+        "6" : 127,
+        "7" : 1
+      }
+    },
+    "highPrice" : "994.00",
+    "level" : "30",
+    "lowPrice" : "920.00",
+    "manuId" : "32479",
+    "name" : "索泰 GTX 750Ti-2GD5 毁灭者 HA",
+    "picSrc" : "http://2d.zol-img.com.cn/product_small/4_60x45/141/ceT04wXDMjx2A.jpg",
+    "price" : "999",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 999,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "371596",
+    "proUrl" : "http://detail.zol.com.cn/vga/index371596.shtml",
+    "shorName" : "索泰GTX 750Ti-2GD5 毁"
+  },
+  {
+    "baseParam" : {
+      "制作工艺" : {
+        "1" : "28纳米",
+        "2" : 539,
+        "3" : 1082,
+        "5" : 1,
+        "6" : 60,
+        "7" : 1
+      },
+      "显卡芯片" : {
+        "1" : "GeForce GTX 750Ti",
+        "2" : 538,
+        "3" : 106,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "显示芯片系列" : {
+        "1" : "NVIDIA GTX 700系列",
+        "3" : 12912,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "NVIDIA",
+        "3" : 1081,
+        "5" : 1,
+        "6" : 127,
+        "7" : 1
+      }
+    },
+    "highPrice" : "994.00",
+    "level" : "30",
+    "lowPrice" : "905.00",
+    "manuId" : "413",
+    "name" : "七彩虹 iGame750Ti 烈焰战神U-Twin-2GD5",
+    "picSrc" : "http://2a.zol-img.com.cn/product_small/4_60x45/76/ce5jC3ZHItB1g.jpg",
+    "price" : "999",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 999,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "370955",
+    "proUrl" : "http://detail.zol.com.cn/vga/index370955.shtml",
+    "shorName" : "七彩虹iGame750Ti 烈焰"
+  },
+  {
+    "baseParam" : {
+      "制作工艺" : {
+        "1" : "28纳米",
+        "2" : 539,
+        "3" : 1082,
+        "5" : 1,
+        "6" : 60,
+        "7" : 1
+      },
+      "显卡芯片" : {
+        "1" : "GeForce GTX 970",
+        "2" : 538,
+        "3" : 106,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "显示芯片系列" : {
+        "1" : "GeForce GTX900系列",
+        "3" : 12912,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "NVIDIA",
+        "3" : 1081,
+        "5" : 1,
+        "6" : 127,
+        "7" : 1
+      }
+    },
+    "highPrice" : "2590.00",
+    "level" : "30",
+    "lowPrice" : "2586.00",
+    "manuId" : "1238",
+    "name" : "影驰 GTX 970 骨灰黑将",
+    "picSrc" : "http://2f.zol-img.com.cn/product_small/4_60x45/943/ce2xdakjiEZE.jpg",
+    "price" : "2599",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 2599,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "394731",
+    "proUrl" : "http://detail.zol.com.cn/vga/index394731.shtml",
+    "shorName" : "影驰GTX 970 骨灰黑将"
+  },
+  {
+    "baseParam" : {
+      "制作工艺" : {
+        "1" : "28纳米",
+        "2" : 539,
+        "3" : 1082,
+        "5" : 1,
+        "6" : 60,
+        "7" : 1
+      },
+      "显卡芯片" : {
+        "1" : "GeForce GTX 960",
+        "2" : 538,
+        "3" : 106,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "显示芯片系列" : {
+        "1" : "GeForce GTX900系列",
+        "3" : 12912,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "NVIDIA",
+        "3" : 1081,
+        "5" : 1,
+        "6" : 127,
+        "7" : 1
+      }
+    },
+    "highPrice" : "1499.00",
+    "level" : "30",
+    "lowPrice" : "1492.00",
+    "manuId" : "1238",
+    "name" : "影驰 GTX960黑将",
+    "picSrc" : "http://2d.zol-img.com.cn/product_small/4_60x45/225/ce9Hzb1Ogqd1M.jpg",
+    "price" : "1499",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 1499,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "395780",
+    "proUrl" : "http://detail.zol.com.cn/vga/index395780.shtml",
+    "shorName" : "影驰GTX960黑将"
+  },
+  {
+    "baseParam" : {
+      "制作工艺" : {
+        "1" : "28纳米",
+        "2" : 539,
+        "3" : 1082,
+        "5" : 1,
+        "6" : 60,
+        "7" : 1
+      },
+      "显卡芯片" : {
+        "1" : "GeForce GTX 750Ti",
+        "2" : 538,
+        "3" : 106,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "显示芯片系列" : {
+        "1" : "NVIDIA GTX 700系列",
+        "3" : 12912,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "NVIDIA",
+        "3" : 1081,
+        "5" : 1,
+        "6" : 127,
+        "7" : 1
+      }
+    },
+    "highPrice" : "994.00",
+    "level" : "30",
+    "lowPrice" : "881.00",
+    "manuId" : "1238",
+    "name" : "影驰 GTX 750Ti 大将",
+    "picSrc" : "http://2e.zol-img.com.cn/product_small/4_60x45/920/cerdw1lllg.jpg",
+    "price" : "999",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 999,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "371284",
+    "proUrl" : "http://detail.zol.com.cn/vga/index371284.shtml",
+    "shorName" : "影驰GTX 750Ti 大将"
+  },
+  {
+    "baseParam" : {
+      "制作工艺" : {
+        "1" : "28纳米",
+        "2" : 539,
+        "3" : 1082,
+        "5" : 1,
+        "6" : 60,
+        "7" : 1
+      },
+      "显卡芯片" : {
+        "1" : "GeForce GTX 980",
+        "2" : 538,
+        "3" : 106,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "显示芯片系列" : {
+        "1" : "NVIDIA GTX 900系列",
+        "3" : 12912,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "NVIDIA",
+        "3" : 1081,
+        "5" : 1,
+        "6" : 127,
+        "7" : 1
+      }
+    },
+    "highPrice" : "4478.00",
+    "level" : "30",
+    "lowPrice" : "3780.00",
+    "manuId" : "133",
+    "name" : "微星 GTX 980 GAMING 4G",
+    "picSrc" : "http://2b.zol-img.com.cn/product_small/4_60x45/891/cetI6EsGzvaBM.jpg",
+    "price" : "3799",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 3799,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "390260",
+    "proUrl" : "http://detail.zol.com.cn/vga/index390260.shtml",
+    "shorName" : "微星GTX 980 GAMING 4G"
+  },
+  {
+    "baseParam" : {
+      "制作工艺" : {
+        "1" : "28纳米",
+        "2" : 539,
+        "3" : 1082,
+        "5" : 1,
+        "6" : 60,
+        "7" : 1
+      },
+      "显卡芯片" : {
+        "1" : "GeForce GTX 960",
+        "2" : 538,
+        "3" : 106,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "显示芯片系列" : {
+        "1" : "GeForce GTX 900系列",
+        "3" : 12912,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "NVIDIA",
+        "3" : 1081,
+        "5" : 1,
+        "6" : 127,
+        "7" : 1
+      }
+    },
+    "highPrice" : "1790.00",
+    "level" : "30",
+    "lowPrice" : "1790.00",
+    "manuId" : "32479",
+    "name" : "索泰 GTX 960 2GD5 至尊 OC",
+    "picSrc" : "http://2a.zol-img.com.cn/product_small/4_60x45/12/ceiIfZs2syg4.jpg",
+    "price" : "1799",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 1799,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "395426",
+    "proUrl" : "http://detail.zol.com.cn/vga/index395426.shtml",
+    "shorName" : "索泰GTX 960 2GD5 至尊 "
+  },
+  {
+    "baseParam" : {
+      "制作工艺" : {
+        "1" : "28纳米",
+        "2" : 539,
+        "3" : 1082,
+        "5" : 1,
+        "6" : 60,
+        "7" : 1
+      },
+      "显卡芯片" : {
+        "1" : "GeForce GTX 760",
+        "2" : 538,
+        "3" : 106,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "显示芯片系列" : {
+        "1" : "NVIDIA GTX 700系列",
+        "3" : 12912,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "NVIDIA",
+        "3" : 1081,
+        "5" : 1,
+        "6" : 127,
+        "7" : 1
+      }
+    },
+    "highPrice" : "1591.00",
+    "level" : "30",
+    "lowPrice" : "1591.00",
+    "manuId" : "133",
+    "name" : "微星 N760 GAMING 2G",
+    "picSrc" : "http://2c.zol-img.com.cn/product_small/4_60x45/960/ceAdCkObGYMGE.jpg",
+    "price" : "1599",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 1599,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "356613",
+    "proUrl" : "http://detail.zol.com.cn/vga/index356613.shtml",
+    "shorName" : "微星N760 GAMING 2G"
+  }
+]
