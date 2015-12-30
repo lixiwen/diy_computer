@@ -1,0 +1,542 @@
+[
+  {
+    "baseParam" : {
+      "主芯片组" : {
+        "1" : "Intel B85",
+        "2" : 514,
+        "3" : 276,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "Intel",
+        "3" : 3857,
+        "6" : 115,
+        "7" : 1
+      },
+      "芯片组描述" : {
+        "1" : "采用Intel B85芯片组",
+        "2" : 508,
+        "3" : 1806,
+        "6" : 125,
+        "7" : 1
+      },
+      "集成芯片" : {
+        "1" : "声卡/网卡",
+        "2" : 2731,
+        "3" : 829,
+        "5" : 1,
+        "6" : 100,
+        "7" : 1
+      }
+    },
+    "highPrice" : "832.00",
+    "level" : "30",
+    "lowPrice" : "518.00",
+    "manuId" : "234",
+    "name" : "技嘉 GA-B85-HD3(rev.1.x)",
+    "picSrc" : "http://2a.zol-img.com.cn/product_small/4_60x45/468/ce4OtfAweHWTE.jpg",
+    "price" : "849",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 849,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "355228",
+    "proUrl" : "http://detail.zol.com.cn/motherboard/index355228.shtml",
+    "shorName" : "技嘉GA-B85-HD3(rev.1.x"
+  },
+  {
+    "baseParam" : {
+      "主芯片组" : {
+        "1" : "Intel B85",
+        "2" : 514,
+        "3" : 276,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "Intel",
+        "3" : 3857,
+        "6" : 115,
+        "7" : 1
+      },
+      "芯片组描述" : {
+        "1" : "采用Intel B85芯片组",
+        "2" : 508,
+        "3" : 1806,
+        "6" : 125,
+        "7" : 1
+      },
+      "集成芯片" : {
+        "1" : "声卡/网卡",
+        "2" : 2731,
+        "3" : 829,
+        "5" : 1,
+        "6" : 100,
+        "7" : 1
+      }
+    },
+    "highPrice" : "685.00",
+    "level" : "30",
+    "lowPrice" : "538.00",
+    "manuId" : "227",
+    "name" : "华硕 B85M-GAMER",
+    "picSrc" : "http://2a.zol-img.com.cn/product_small/4_60x45/24/cegMuM8lqLzmE.jpg",
+    "price" : "699",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 699,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "395847",
+    "proUrl" : "http://detail.zol.com.cn/motherboard/index395847.shtml",
+    "shorName" : "华硕B85M-GAMER"
+  },
+  {
+    "baseParam" : {
+      "主芯片组" : {
+        "1" : "Intel B85",
+        "2" : 514,
+        "3" : 276,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "Intel",
+        "3" : 3857,
+        "6" : 115,
+        "7" : 1
+      },
+      "芯片组描述" : {
+        "1" : "采用Intel B85芯片组",
+        "2" : 508,
+        "3" : 1806,
+        "6" : 125,
+        "7" : 1
+      },
+      "集成芯片" : {
+        "1" : "声卡/网卡",
+        "2" : 2731,
+        "3" : 829,
+        "5" : 1,
+        "6" : 100,
+        "7" : 1
+      }
+    },
+    "highPrice" : "899.00",
+    "level" : "30",
+    "lowPrice" : "657.00",
+    "manuId" : "227",
+    "name" : "华硕 B85-PRO GAMER",
+    "picSrc" : "http://2b.zol-img.com.cn/product_small/4_60x45/829/cezG8o9iJYys.jpg",
+    "price" : "899",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 899,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "374349",
+    "proUrl" : "http://detail.zol.com.cn/motherboard/index374349.shtml",
+    "shorName" : "华硕B85-PRO GAMER"
+  },
+  {
+    "baseParam" : {
+      "主芯片组" : {
+        "1" : "Intel Z97",
+        "2" : 514,
+        "3" : 276,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "Intel",
+        "3" : 3857,
+        "6" : 115,
+        "7" : 1
+      },
+      "芯片组描述" : {
+        "1" : "采用Intel Z97芯片组",
+        "2" : 508,
+        "3" : 1806,
+        "6" : 125,
+        "7" : 1
+      },
+      "集成芯片" : {
+        "1" : "声卡/网卡",
+        "2" : 2731,
+        "3" : 829,
+        "5" : 1,
+        "6" : 100,
+        "7" : 1
+      }
+    },
+    "highPrice" : "1077.00",
+    "level" : "30",
+    "lowPrice" : "979.00",
+    "manuId" : "133",
+    "name" : "微星 Z97 GAMING 3",
+    "picSrc" : "http://2b.zol-img.com.cn/product_small/4_60x45/325/ceYab5AaQXt6Q.jpg",
+    "price" : "1099",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 1099,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "378929",
+    "proUrl" : "http://detail.zol.com.cn/motherboard/index378929.shtml",
+    "shorName" : "微星Z97 GAMING 3"
+  },
+  {
+    "baseParam" : {
+      "主芯片组" : {
+        "1" : "Intel B85",
+        "2" : 514,
+        "3" : 276,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "Intel",
+        "3" : 3857,
+        "6" : 115,
+        "7" : 1
+      },
+      "芯片组描述" : {
+        "1" : "采用Intel B85芯片组",
+        "2" : 508,
+        "3" : 1806,
+        "6" : 125,
+        "7" : 1
+      },
+      "集成芯片" : {
+        "1" : "声卡/网卡",
+        "2" : 2731,
+        "3" : 829,
+        "5" : 1,
+        "6" : 100,
+        "7" : 1
+      }
+    },
+    "highPrice" : "587.00",
+    "level" : "30",
+    "lowPrice" : "420.00",
+    "manuId" : "133",
+    "name" : "微星 B85M-E45",
+    "picSrc" : "http://2e.zol-img.com.cn/product_small/4_60x45/702/ceIqxhQ9K2TQc.jpg",
+    "price" : "599",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 599,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "358282",
+    "proUrl" : "http://detail.zol.com.cn/motherboard/index358282.shtml",
+    "shorName" : "微星B85M-E45"
+  },
+  {
+    "baseParam" : {
+      "主芯片组" : {
+        "1" : "Intel Z97",
+        "2" : 514,
+        "3" : 276,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "Intel",
+        "3" : 3857,
+        "6" : 115,
+        "7" : 1
+      },
+      "芯片组描述" : {
+        "1" : "采用Intel Z97芯片组",
+        "2" : 508,
+        "3" : 1806,
+        "6" : 125,
+        "7" : 1
+      },
+      "集成芯片" : {
+        "1" : "声卡/网卡",
+        "2" : 2731,
+        "3" : 829,
+        "5" : 1,
+        "6" : 100,
+        "7" : 1
+      }
+    },
+    "highPrice" : "1175.00",
+    "level" : "30",
+    "lowPrice" : "950.00",
+    "manuId" : "413",
+    "name" : "七彩虹 iGame Z97 烈焰战神X",
+    "picSrc" : "http://2e.zol-img.com.cn/product_small/4_60x45/970/ceOAY44QQKaME.jpg",
+    "price" : "1199",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 1199,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "382465",
+    "proUrl" : "http://detail.zol.com.cn/motherboard/index382465.shtml",
+    "shorName" : "七彩虹iGame Z97 烈焰战"
+  },
+  {
+    "baseParam" : {
+      "主芯片组" : {
+        "1" : "Intel B85",
+        "2" : 514,
+        "3" : 276,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "Intel",
+        "3" : 3857,
+        "6" : 115,
+        "7" : 1
+      },
+      "芯片组描述" : {
+        "1" : "采用Intel B85芯片组",
+        "2" : 508,
+        "3" : 1806,
+        "6" : 125,
+        "7" : 1
+      },
+      "集成芯片" : {
+        "1" : "声卡/网卡",
+        "2" : 2731,
+        "3" : 829,
+        "5" : 1,
+        "6" : 100,
+        "7" : 1
+      }
+    },
+    "highPrice" : "489.00",
+    "level" : "30",
+    "lowPrice" : "392.00",
+    "manuId" : "391",
+    "name" : "映泰 Hi-Fi B85S3+",
+    "picSrc" : "http://2f.zol-img.com.cn/product_small/4_60x45/737/ce0WXnwRHWk.jpg",
+    "price" : "499",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 499,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "356420",
+    "proUrl" : "http://detail.zol.com.cn/motherboard/index356420.shtml",
+    "shorName" : "映泰Hi-Fi B85S3+"
+  },
+  {
+    "baseParam" : {
+      "主芯片组" : {
+        "1" : "Intel B85",
+        "2" : 514,
+        "3" : 276,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "Intel",
+        "3" : 3857,
+        "6" : 115,
+        "7" : 1
+      },
+      "芯片组描述" : {
+        "1" : "采用Intel B85芯片组",
+        "2" : 508,
+        "3" : 1806,
+        "6" : 125,
+        "7" : 1
+      },
+      "集成芯片" : {
+        "1" : "声卡/网卡",
+        "2" : 2731,
+        "3" : 829,
+        "5" : 1,
+        "6" : 100,
+        "7" : 1
+      }
+    },
+    "highPrice" : "587.00",
+    "level" : "30",
+    "lowPrice" : "382.00",
+    "manuId" : "234",
+    "name" : "技嘉 GA-B85M-D3V(rev.1.1)",
+    "picSrc" : "http://2e.zol-img.com.cn/product_small/4_60x45/770/ceOmMiTklOxgk.jpg",
+    "price" : "599",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 599,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "362526",
+    "proUrl" : "http://detail.zol.com.cn/motherboard/index362526.shtml",
+    "shorName" : "技嘉GA-B85M-D3V(rev.1."
+  },
+  {
+    "baseParam" : {
+      "主芯片组" : {
+        "1" : "Intel B85",
+        "2" : 514,
+        "3" : 276,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "Intel",
+        "3" : 3857,
+        "6" : 115,
+        "7" : 1
+      },
+      "芯片组描述" : {
+        "1" : "采用Intel B85芯片组",
+        "2" : 508,
+        "3" : 1806,
+        "6" : 125,
+        "7" : 1
+      },
+      "集成芯片" : {
+        "1" : "声卡/网卡",
+        "2" : 2731,
+        "3" : 829,
+        "5" : 1,
+        "6" : 100,
+        "7" : 1
+      }
+    },
+    "highPrice" : "538.00",
+    "level" : "30",
+    "lowPrice" : "509.00",
+    "manuId" : "1065",
+    "name" : "华擎 玩家至尊 B85 杀手版",
+    "picSrc" : "http://2d.zol-img.com.cn/product_small/4_60x45/197/ceRWm6OhDS5tE.jpg",
+    "price" : "799",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 799,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "367414",
+    "proUrl" : "http://detail.zol.com.cn/motherboard/index367414.shtml",
+    "shorName" : "华擎玩家至尊 B85 杀手"
+  },
+  {
+    "baseParam" : {
+      "主芯片组" : {
+        "1" : "Intel B85",
+        "2" : 514,
+        "3" : 276,
+        "5" : 1,
+        "6" : 125,
+        "7" : 1
+      },
+      "芯片厂商" : {
+        "1" : "Intel",
+        "3" : 3857,
+        "6" : 115,
+        "7" : 1
+      },
+      "芯片组描述" : {
+        "1" : "采用Intel B85芯片组",
+        "2" : 508,
+        "3" : 1806,
+        "6" : 125,
+        "7" : 1
+      },
+      "集成芯片" : {
+        "1" : "声卡/网卡",
+        "2" : 2731,
+        "3" : 829,
+        "5" : 1,
+        "6" : 100,
+        "7" : 1
+      }
+    },
+    "highPrice" : "881.00",
+    "level" : "30",
+    "lowPrice" : "676.00",
+    "manuId" : "234",
+    "name" : "技嘉 G1.Sniper B6(rev.1.0)",
+    "picSrc" : "http://2b.zol-img.com.cn/product_small/4_60x45/981/ceeox5omrd59U.jpg",
+    "price" : "899",
+    "priceShow" : {
+      "hidden" : "",
+      "hiddens" : "",
+      "mark" : "￥",
+      "noSale" : 0,
+      "noTime" : 0,
+      "price" : 899,
+      "showDate" : 0,
+      "style" : "",
+      "style2" : "price-normal"
+    },
+    "proId" : "389810",
+    "proUrl" : "http://detail.zol.com.cn/motherboard/index389810.shtml",
+    "shorName" : "技嘉G1.Sniper B6(rev.1"
+  }
+]
